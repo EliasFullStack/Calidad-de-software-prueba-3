@@ -32,8 +32,6 @@ Con ello se busca determinar si el sistema cumple los **requisitos no funcionale
 │   ├── 📄 script_1_medicion_basica.py
 │   ├── 📄 script_2_carga_realista.py
 │   └── 📄 script_3_carga_extrema.py
-│
-├── 📄 informe_encargo_3.pdf
 ├── 📄 requirements.txt
 └── 📄 README.md
 ```
@@ -88,6 +86,9 @@ El archivo `informe_encargo_3.pdf` incluye:
 * Análisis técnico del rendimiento
 * Recomendaciones de mejora
 * Conclusión sobre el cumplimiento de métricas de la industria
+
+📎 **El informe completo también se encuentra disponible en el siguiente enlace:**
+👉 [https://docs.google.com/document/d/1FsDFQ7wFsL5vVGLqeg2ZUUc-e8078_EX/edit](https://docs.google.com/document/d/1FsDFQ7wFsL5vVGLqeg2ZUUc-e8078_EX/edit)
 
 ---
 
@@ -144,4 +145,4 @@ Desde ahí podrás:
 
 * **Elías Ortiz**
 * **Rodrigo Román**
-* **Ignacio**
+* **Ignacio Leyton**
