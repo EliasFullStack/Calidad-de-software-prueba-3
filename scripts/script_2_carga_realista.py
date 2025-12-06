@@ -8,5 +8,5 @@ class LoadUser(HttpUser):
         self.client.get("/")
 
     @task(1)
-    def assets(self):
-        self.client.get("/assets/favicon.png")
+    def favicon(self):
+        self.client.get("img/Banner%20Tienda%20Online%20Mercado%20Shop%20Mascotas%20Curvo%20Celeste%20y%20Azul.png")
